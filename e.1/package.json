@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.0.3"
+  },
+  "name": "e.1",
+  "version": "1.0.0",
+  "main": "module1.js",
+  "scripts": {
+    "test": "node server.js",
+    "run": "node server.js",
+    "start": "nodemon myfirst.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
